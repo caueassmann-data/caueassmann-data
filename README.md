@@ -1,3 +1,5 @@
+3 ### 🦷  De Dentista a 📊 Engenheiro e Analista de Dados
+    4
     1 # Olá, eu sou o Cauê Assmann! 👋
     2
     3 ### 🦷  De Dentista a 📊 Engenheiro e Analista de Dados
@@ -40,15 +42,17 @@
    34
    35 ### 📫 Vamos nos conectar?
    36
-   37 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caue-assmann-data/)
-   38 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: caue.assmann@hotmail.com)
+   37 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http
+      s://www.linkedin.com/in/caue-assmann-748057195/)
+   38 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caue.a
+      ssmann@hotmail.com)
    39
    40 ---
    41
    42 <p align="center">
    43   <img src="https://github-readme-stats.vercel.app/api?username=caueassmann-data&show_icons=true&theme=radical"
-      alt="GitHub Stats" />
+      alt="GitHub Stats" height="150" />
    44   <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueassmann-data&layout=compact&theme=radical"
-      alt="Most Used Languages" />
+      alt="Most Used Languages" height="150" />
    45 </p>
