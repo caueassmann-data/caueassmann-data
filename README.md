@@ -22,16 +22,6 @@ Seja bem-vindo ao meu perfil do GitHub! Sou um profissional apaixonado por trans
 * **Ferramentas & Metodologias:** Git & GitHub, Docker, ETL/ELT pipelines
 
 
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caueassmann-data&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Cauê" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueassmann-data&layout=compact&theme=nord" alt="Linguagens mais usadas" height="150px"/>
-</p>
-
-
-
 ---
 
 ## 🇺🇸 About Me
@@ -49,12 +39,3 @@ Welcome to my GitHub profile! I am a data professional passionate about transfor
 * **Databases:** PostgreSQL, SQL Server
 * **Data Visualization & BI:** Power BI
 * **Tools & Methodologies:** Git & GitHub, Docker, ETL/ELT pipelines
-
-
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caueassmann-data&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Cauê's GitHub Stats" height="150px"/>
-</p>
-
