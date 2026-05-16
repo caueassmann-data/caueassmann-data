@@ -11,15 +11,15 @@ Seja bem-vindo ao meu perfil do GitHub! Sou um profissional apaixonado por trans
 
 - 🔭 **Atualmente trabalhando em:** Projetos de análise exploratória de dados e automação de relatórios.
 - 🌱 **Estudando e aprimorando:** Engenharia de dados, Cloud Computing (AWS/Azure) e Machine Learning avançado.
-- 💬 **Fale comigo sobre:** SQL, Python, inteligência de negócios (BI) e metodologias ágeis.
+- 💬 **Fale comigo sobre:** SQL, Python, inteligência de negócios (BI) e ML.
 
 
 ### 🛠️ Habilidades e Ferramentas
 
-* **Linguagens de Programação:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), R, SQL
-* **Bancos de Dados:** PostgreSQL, MySQL, SQL Server, BigQuery
-* **Visualização de Dados & BI:** Power BI, Tableau, Looker Studio
-* **Ferramentas & Metodologias:** Git & GitHub, Docker, ETL/ELT pipelines, Excel Avançado
+* **Linguagens de Programação:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), SQL
+* **Bancos de Dados:** PostgreSQL, SQL Server
+* **Visualização de Dados & BI:** Power BI
+* **Ferramentas & Metodologias:** Git & GitHub, Docker, ETL/ELT pipelines
 
 
 
@@ -40,15 +40,15 @@ Welcome to my GitHub profile! I am a data professional passionate about transfor
 
 - 🔭 **Currently working on:** Exploratory data analysis projects and report automation.
 - 🌱 **Learning and improving:** Data engineering, Cloud Computing (AWS/Azure), and advanced Machine Learning.
-- 💬 **Talk to me about:** SQL, Python, Business Intelligence (BI), and agile methodologies.
+- 💬 **Talk to me about:** SQL, Python, Business Intelligence (BI), and ML.
 
 
 ### 🛠️ Skills and Tools
 
-* **Programming Languages:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), R, SQL
-* **Databases:** PostgreSQL, MySQL, SQL Server, BigQuery
-* **Data Visualization & BI:** Power BI, Tableau, Looker Studio
-* **Tools & Methodologies:** Git & GitHub, Docker, ETL/ELT pipelines, Advanced Excel
+* **Programming Languages:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), SQL
+* **Databases:** PostgreSQL, SQL Server
+* **Data Visualization & BI:** Power BI
+* **Tools & Methodologies:** Git & GitHub, Docker, ETL/ELT pipelines
 
 
 
